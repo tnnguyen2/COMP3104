@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "-- Tony Nguyen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tnnguyen2/COMP3104.git"
+  },
+  "keywords": ["devops","nodejs","express","web"],
+  "author": "Tony Nguyen 100907949",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnnguyen2/COMP3104/issues"
+  },
+  "homepage": "https://github.com/tnnguyen2/COMP3104#readme"
+}
